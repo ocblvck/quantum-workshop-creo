@@ -10,17 +10,17 @@
 Unlock the future of technology with **CREO's Fall 2025 Quantum Computing Workshop Series**! This comprehensive 4-month program offers hands-on training in quantum computing using industry-leading frameworks and real-world applications.
 
 ### Who Can Attend?
-- ✅ Students
-- ✅ Faculty
-- ✅ Staff
-- ✅ Anyone interested in quantum computing!
+- Students
+- Faculty
+- Staff
+- Anyone interested in quantum computing!
 
 ### What You'll Get
-- 🎓 **CREO Certificate in Quantum Computing** (upon completion)
-- 💻 Hands-on experience with **IBM Qiskit**, **Google Cirq**, and **PennyLane**
-- 🔐 Real cybersecurity datasets and simulations
-- 🚀 Cutting-edge skills for research and industry
-- 🆓 **Completely FREE!**
+- **CREO Certificate in Quantum Computing** (upon completion)
+- Hands-on experience with **IBM Qiskit**, **Google Cirq**, and **PennyLane**
+- Real cybersecurity datasets and simulations
+- Cutting-edge skills for research and industry
+- **Completely FREE!**
 
 ---
 
@@ -29,14 +29,14 @@ Unlock the future of technology with **CREO's Fall 2025 Quantum Computing Worksh
 **When:** Second Thursday of every month  
 **Time:** 11:00 AM – 12:00 PM  
 **Duration:** September – December 2025  
-**Format:** Hybrid (In-person and Virtual options available)
+**Format:** Virtual 
 
 | Session | Date | Topic |
 |---------|------|-------|
 | Session 1 | September | Foundations of Quantum Computing |
 | Session 2 | October | Quantum Algorithms |
-| Session 3 | November | Advanced Quantum Techniques |
-| Session 4 | December | Quantum Applications in Cybersecurity |
+| Session 3 | November | Quantum Machine Learning |
+| Session 4 | December | Quantum Cryptography |
 
 **Note:** We encourage participants to join as many sessions as possible to maximize learning and qualify for certification.
 
@@ -65,7 +65,7 @@ Quantum-Workshop-CREO/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -136,37 +136,38 @@ Advanced topics and cybersecurity applications will be added as the workshop pro
 ## 💡 Key Concepts Covered
 
 ### Quantum Fundamentals
-- ⚛️ Qubits and superposition
-- 🔗 Quantum entanglement
-- 🎮 Quantum gates and circuits
-- 📊 Measurement and collapse
+-  Qubits and superposition
+-  Quantum entanglement
+-  Quantum gates and circuits
+-  Measurement and collapse
 
 ### Quantum Algorithms
-- 🎯 Deutsch's algorithm
-- 🔍 Deutsch-Jozsa algorithm
-- 🎲 Bernstein-Vazirani algorithm
-- 🔐 Quantum cryptography (upcoming)
+-  Deutsch's algorithm
+-  Deutsch-Jozsa algorithm
+-  Bernstein-Vazirani algorithm
+-  Quantum Machine Learning (Upcoming)
+-  Quantum cryptography (upcoming)
 
 ### Practical Applications
-- 💻 Real quantum hardware access
-- 🔒 Cybersecurity applications
-- 📈 Quantum simulations
-- 🧪 Hands-on experiments
+-  Real quantum hardware access
+-  Cybersecurity applications
+-  Quantum simulations
+-  Hands-on experiments
 
 ---
 
-## 📋 Requirements for Certificate
+##  Requirements for Certificate
 
 To earn the **CREO Certificate in Quantum Computing**, participants must:
 
-- ✅ Attend at least 3 out of 4 sessions
-- ✅ Complete hands-on exercises
-- ✅ Submit final project (details in Session 4)
-- ✅ Demonstrate understanding of core quantum concepts
+-  Attend at least 3 out of 4 sessions
+-  Complete hands-on exercises
+-  Submit final project (details in Session 4)
+-  Demonstrate understanding of core quantum concepts
 
 ---
 
-## 🤝 How to Use This Repository
+##  How to Use This Repository
 
 ### For Workshop Participants:
 1. Clone this repository before each session
@@ -186,18 +187,18 @@ To earn the **CREO Certificate in Quantum Computing**, participants must:
 
 ### Workshop Organizers
 - **Organization:** CREO (Center for Research and Education Outreach)
-- **Email:** [Insert contact email]
+- **Email:** [Caitlin M Reavis <cmreavis@ncat.edu>]
 - **Website:** [Insert website]
 
 ### Getting Help
 - 💬 Join workshop discussion forum
-- 📧 Email instructors with questions
+- 📧 Email instructor with questions [Chibuike C Okekeogbu <ccokekeogbu@aggies.ncat.edu>]
 - 🤝 Collaborate with fellow participants
 - 📚 Check Qiskit documentation: [qiskit.org](https://qiskit.org)
 
 ---
 
-## 🔗 Useful Resources
+##  Useful Resources
 
 ### Official Documentation
 - [IBM Qiskit Documentation](https://qiskit.org/documentation/)
@@ -221,25 +222,25 @@ This educational material is provided for learning purposes as part of the CREO 
 
 ---
 
-## 🌟 Acknowledgments
+## Acknowledgments
 
 - **IBM Quantum** for providing access to real quantum hardware
 - **CREO** for organizing and hosting this workshop series
-- **All instructors and participants** for making this workshop possible
+- **All participants** for making this workshop possible
 
 ---
 
-## 🚀 Apply Today!
+## Apply Today!
 
 Ready to unlock the future of computing? 
 
-**[Apply Now](#)** | **[More Information](#)**
+**[Apply Now](https://forms.office.com/pages/responsepage.aspx?id=dd1E2NekH0u9M7wLHHlsONdLtiAhvO5BlG65jj_-v3lUOEFCS1daOU5UVVFBT0Y5MzVEUENFSlk0Ry4u&origin=lprLink&route=shorturl)** | **[More Information](#)**
 
 *Gain cutting-edge skills that will set you apart in research and industry!*
 
 ---
 
-### 📊 Workshop Statistics
+### Workshop Statistics
 
 ![Students](https://img.shields.io/badge/Target-All%20Levels-brightgreen)
 ![Duration](https://img.shields.io/badge/Duration-4%20Months-blue)
@@ -253,4 +254,4 @@ Ready to unlock the future of computing?
 
 ---
 
-*Happy Quantum Computing! 🌌*
+*Happy Quantum Computing! *
