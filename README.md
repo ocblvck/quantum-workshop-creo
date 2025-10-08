@@ -186,13 +186,13 @@ To earn the **CREO Certificate in Quantum Computing**, participants must:
 ## 📞 Contact & Support
 
 ### Workshop Organizers
-- **Organization:** CREO (Center for Research and Education Outreach)
-- **Email:** [Caitlin M Reavis](<cmreavis@ncat.edu>)
+- **Organization:** CREO (Center of Excellence in Cybersecurity Research, Education and Outreach)
+- **Email:** [Caitlin M Reavis](cmreavis@ncat.edu)
 - **Website:** [Insert website]
 
 ### Getting Help
 - 💬 Join workshop discussion forum
-- 📧 Email instructor with questions [Chibuike C Okekeogbu](<ccokekeogbu@aggies.ncat.edu>)
+- 📧 Email instructor with questions [Chibuike C Okekeogbu](ccokekeogbu@aggies.ncat.edu)
 - 🤝 Collaborate with fellow participants
 - 📚 Check Qiskit documentation: [qiskit.org](https://qiskit.org)
 
