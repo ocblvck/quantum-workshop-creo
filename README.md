@@ -254,4 +254,4 @@ Ready to unlock the future of computing?
 
 ---
 
-*Happy Quantum Computing! *
+*Happy Quantum Computing!*
