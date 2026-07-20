@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-green)
 ![License](https://img.shields.io/badge/License-Educational-orange)
 
-## 🌟 About the Workshop
+##  About the Workshop
 
 Unlock the future of technology with **CREO's Fall 2025 Quantum Computing Workshop Series**! This comprehensive 4-month program offers hands-on training in quantum computing using industry-leading frameworks and real-world applications.
 
@@ -24,7 +24,7 @@ Unlock the future of technology with **CREO's Fall 2025 Quantum Computing Worksh
 
 ---
 
-## 📅 Schedule
+##  Schedule
 
 **When:** Second Thursday of every month  
 **Time:** 11:00 AM – 12:00 PM  
@@ -42,7 +42,7 @@ Unlock the future of technology with **CREO's Fall 2025 Quantum Computing Worksh
 
 ---
 
-## 📚 Repository Structure
+##  Repository Structure
 
 ```
 Quantum-Workshop-CREO/
@@ -94,7 +94,7 @@ Quantum-Workshop-CREO/
 
 ---
 
-## 📖 Learning Path
+##  Learning Path
 
 ### Session 1: Foundations of Quantum Computing
 
@@ -120,7 +120,7 @@ Advanced topics and cybersecurity applications will be added as the workshop pro
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -133,7 +133,7 @@ Advanced topics and cybersecurity applications will be added as the workshop pro
 
 ---
 
-## 💡 Key Concepts Covered
+##  Key Concepts Covered
 
 ### Quantum Fundamentals
 -  Qubits and superposition
@@ -183,7 +183,7 @@ To earn the **CREO Certificate in Quantum Computing**, participants must:
 
 ---
 
-## 📞 Contact & Support
+##  Contact & Support
 
 ### Workshop Organizers
 - **Organization:** CREO (Center of Excellence in Cybersecurity Research, Education and Outreach)
@@ -191,10 +191,10 @@ To earn the **CREO Certificate in Quantum Computing**, participants must:
 - **Website:** [Insert website]
 
 ### Getting Help
-- 💬 Join workshop discussion forum
-- 📧 Email instructor with questions [Chibuike C Okekeogbu](ccokekeogbu@aggies.ncat.edu)
-- 🤝 Collaborate with fellow participants
-- 📚 Check Qiskit documentation: [qiskit.org](https://qiskit.org)
+-  Join workshop discussion forum
+-  Email instructor with questions [Chibuike C Okekeogbu](ccokekeogbu@aggies.ncat.edu)
+-  Collaborate with fellow participants
+-  Check Qiskit documentation: [qiskit.org](https://qiskit.org)
 
 ---
 
@@ -216,7 +216,7 @@ To earn the **CREO Certificate in Quantum Computing**, participants must:
 
 ---
 
-## 📄 License
+##  License
 
 This educational material is provided for learning purposes as part of the CREO Quantum Computing Workshop Series.
 
